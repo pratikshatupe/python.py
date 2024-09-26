@@ -1,0 +1,7 @@
+str=(input("Enter any string:"))
+if str.islower():
+    print(str.upper())
+    #optupt
+    #Enter any string :python
+    #PYTHON
+    
